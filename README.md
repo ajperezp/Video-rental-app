@@ -10,3 +10,6 @@ Learned about and implemented Component Design Principles, Practiced Component I
 
 Fourth Commit. Routing:
 Used Route Parameters, Query Strings, and Nested Routing to facilitate navigation, Redirected users and implemented Not Found (404) Pages. 
+
+Fifth Commit. Login Form:
+Built a Bootstrap Login Form, Handled Form submission and multiple inputs, Implemented Validation in form and fields using Joi, Displayed validations errors, Disabled Login Button until fields are validated. 
