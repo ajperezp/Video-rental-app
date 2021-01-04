@@ -7,3 +7,6 @@ Passed data among components using props. Raised and handled events. Integrated 
 
 Third Commit. Pagination, Filtering, and Sorting:
 Learned about and implemented Component Design Principles, Practiced Component Interface in terms of the data it should recive and events it should raise, Built reusable components suchs as listGroup, pagination, and table, Used several refactoring technics to write clean code.
+
+Fourth Commit. Routing:
+Used Route Parameters, Query Strings, and Nested Routing to facilitate navigation, Redirected users and implemented Not Found (404) Pages. 
