@@ -13,3 +13,6 @@ Used Route Parameters, Query Strings, and Nested Routing to facilitate navigatio
 
 Fifth Commit. Login Form:
 Built a Bootstrap Login Form, Handled Form submission and multiple inputs, Implemented Validation in form and fields using Joi, Displayed validations errors, Disabled Login Button until fields are validated. 
+
+Sixth Commit. Registration Form, Movie Form, and Search Box:
+Extracted and built a reusable Form component from which Registration and Movie Forms were created. Further Implementation of inputs validations (emails, usernames, passwords). Movie Form allows to create or edit the data for a particular movie. Inputs are validated and errors handled. Search Box component is used to filter movies by their title. 
